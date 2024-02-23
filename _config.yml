@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Long Wei"
-title_separator          : "-"
+# title                    : "Long Wei"
+# title_separator          : "-"
 # name                     : &name "Long Wei"
 # description              : &description "personal description"
 url                      : https://longweizju.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
