@@ -26,7 +26,7 @@ International Conference on Learning Representations (ICLR), 2024 (**Spotlight**
 IEEE Transactions on Image Processing, 29, 4942-4951, 2020.  
 [[PDE](https://www.researchgate.net/profile/Long-Wei-14/publication/339700962_SIF_Self-Inspirited_Feature_Learning_for_Person_Re-Identification/links/64b1eed3c41fb852dd70eb7b/SIF-Self-Inspirited-Feature-Learning-for-Person-Re-Identification.pdf)]  
 
-3. **Decouple co-adaptation: classifier randomization for person re-identification**  
+3. **Decouple co-adaptation: Classifier randomization for person re-identification**  
 **Long Wei**, Zhenyong Wei, Zhongming Jin, Qianxiao Wei, Jianqiang Huang, Xian-Sheng Hua, Deng Cai, Xiaofei He  
 Neurocomputing, 383, 1-9, 2020.  
 
