@@ -16,12 +16,12 @@ My research interest generally focuses on AI for science, which involves leverag
 
 # Recent Publication (*equal contribution)
 
-1. **Compositional Generative Inverse Design.**  
+1. **Compositional Generative Inverse Design**  
 Tailin Wu<sup>\*</sup>, Takashi Maruyama<sup>\*</sup>, **Long Wei**<sup>\*</sup>, Tao Zhang<sup>\*</sup>, Yilun Du<sup>\*</sup>, Gianluca Iaccarino, Jure Leskovec   
 International Conference on Learning Representations (ICLR), 2024 (**Spotlight**).  
 [[PDE](https://openreview.net/forum?id=wmX0CqFSd7)]
 
-2. **SIF: Self-inspirited feature learning for person re-identification.**  
+2. **SIF: Self-inspirited feature learning for person re-identification**  
 **Long Wei**, Zhenyong Wei, Zhongming Jin, Zhengxu Yu, Jianqiang Huang, Deng Cai, Xiaofei He, Xian-Sheng Hua  
 IEEE Transactions on Image Processing, 29, 4942-4951, 2020.  
 [[PDE](https://www.researchgate.net/profile/Long-Wei-14/publication/339700962_SIF_Self-Inspirited_Feature_Learning_for_Person_Re-Identification/links/64b1eed3c41fb852dd70eb7b/SIF-Self-Inspirited-Feature-Learning-for-Person-Re-Identification.pdf)]  
