@@ -18,7 +18,7 @@ My research interest generally focuses on AI for science, which involves leverag
 # Recent Publication (*equal contribution)
 
 1. **Generative PDE Control**  
-**Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu 
+**Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
 ICLR 2024 Workshop on AI4DifferentialEquations In Science (**Oral**).  
 [[PDF](https://openreview.net/forum?id=vaKnCahjdj)]
 
