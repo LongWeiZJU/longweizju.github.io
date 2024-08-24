@@ -18,7 +18,7 @@ My research interest generally focuses on AI for science, which involves leverag
 # Preprints (*equal contribution)
 
 1. **Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**  
-Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun
+Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun  
 arXiv:2408.12171.
 [[PDF](https://arxiv.org/abs/2408.12171)]
 
