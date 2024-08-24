@@ -15,6 +15,12 @@ I am a postdoc researcher from [Westlake University](https://en.westlake.edu.cn/
 My research interest generally focuses on AI for science, which involves leveraging AI tools to tackle scientific and engineering problems. Specifically, I am interested in developing new AI methods for scientific discovery, simulation, as well as design of novel objects. I am also interested in applying these methods across domains like mechanical engineering, aerospace, and materials design. 
 <!-- Additionally, I have a keen interest in generative AI. -->
 
+# Preprints (*equal contribution)
+1. **A Generative Approach to Control Complex Physical Systems**  
+**Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Haodong Feng, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
+arXiv:2407.06494.  
+[[PDF](https://arxiv.org/pdf/2407.06494)]
+
 # Recent Publication (*equal contribution)
 
 1. **Generative PDE Control**  
