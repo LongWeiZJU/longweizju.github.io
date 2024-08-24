@@ -16,10 +16,22 @@ My research interest generally focuses on AI for science, which involves leverag
 <!-- Additionally, I have a keen interest in generative AI. -->
 
 # Preprints (*equal contribution)
-1. **A Generative Approach to Control Complex Physical Systems**  
+1. **Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**
+Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun
+arXiv:2408.12171.
+[[PDF](https://arxiv.org/abs/2408.12171)]
+
+2. **Closed-loop Diffusion Control of Complex Physical Systems**
+**Long Wei**<sup>\*</sup>, Haodong Feng<sup>\*</sup>, Peiyan Hu, Tao Zhang, Yuchen Yang, Xiang Zheng, Ruiqi Feng, Dixia Fan, Tailin Wu
+arXiv:2408.03124.
+[[PDF](https://arxiv.org/pdf/2408.03124)]
+
+3. **A Generative Approach to Control Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Haodong Feng, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
 arXiv:2407.06494.  
 [[PDF](https://arxiv.org/pdf/2407.06494)]
+
+
 
 # Recent Publication (*equal contribution)
 
