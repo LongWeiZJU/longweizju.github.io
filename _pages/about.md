@@ -25,21 +25,24 @@ arXiv:2408.12171. [[PDF](https://arxiv.org/abs/2408.12171)]
 **Long Wei**<sup>\*</sup>, Haodong Feng<sup>\*</sup>, Peiyan Hu, Tao Zhang, Yuchen Yang, Xiang Zheng, Ruiqi Feng, Dixia Fan, Tailin Wu  
 arXiv:2408.03124. [[PDF](https://arxiv.org/pdf/2408.03124)]
 
-3. **A Generative Approach to Control Complex Physical Systems**  
+<!-- 3. **A Generative Approach to Control Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Haodong Feng, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
-arXiv:2407.06494. [[PDF](https://arxiv.org/pdf/2407.06494)]
+arXiv:2407.06494. [[PDF](https://arxiv.org/pdf/2407.06494)] -->
 
 
 
 # Recent Publication (*equal contribution)
-
+<!-- 
 1. **Generative PDE Control**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
-ICLR 2024 Workshop on AI4DifferentialEquations In Science (**Oral**). [[PDF](https://openreview.net/forum?id=vaKnCahjdj)]
+ICLR 2024 Workshop on AI4DifferentialEquations In Science (**Oral**). [[PDF](https://openreview.net/forum?id=vaKnCahjdj)] -->
+
+1. **A Generative Approach to Control Complex Physical Systems**  
+**Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
+Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024. [[PDF](https://web3.arxiv.org/abs/2407.06494)]
 
 2. **Compositional Generative Inverse Design**  
 Tailin Wu<sup>\*</sup>, Takashi Maruyama<sup>\*</sup>, **Long Wei**<sup>\*</sup>, Tao Zhang<sup>\*</sup>, Yilun Du<sup>\*</sup>, Gianluca Iaccarino, Jure Leskovec   
-ICLR 2024 Workshop on AI4DifferentialEquations In Science (**Oral**).  
 International Conference on Learning Representations (ICLR), 2024 (**Spotlight**). [[PDF](https://openreview.net/forum?id=wmX0CqFSd7)]
 
 3. **SIF: Self-inspirited feature learning for person re-identification**  
