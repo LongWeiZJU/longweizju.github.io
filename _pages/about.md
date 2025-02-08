@@ -21,15 +21,9 @@ My research interest generally focuses on AI for science, which involves leverag
 Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun  
 arXiv:2408.12171. [[PDF](https://arxiv.org/abs/2408.12171)]
 
-2. **Closed-loop Diffusion Control of Complex Physical Systems**  
+<!-- 2. **Closed-loop Diffusion Control of Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Haodong Feng<sup>\*</sup>, Peiyan Hu, Tao Zhang, Yuchen Yang, Xiang Zheng, Ruiqi Feng, Dixia Fan, Tailin Wu  
-arXiv:2408.03124. [[PDF](https://arxiv.org/pdf/2408.03124)]
-
-<!-- 3. **A Generative Approach to Control Complex Physical Systems**  
-**Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Haodong Feng, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
-arXiv:2407.06494. [[PDF](https://arxiv.org/pdf/2407.06494)] -->
-
-
+arXiv:2408.03124. [[PDF](https://arxiv.org/pdf/2408.03124)] -->
 
 # Recent Publication (*equal contribution)
 <!-- 
@@ -37,26 +31,30 @@ arXiv:2407.06494. [[PDF](https://arxiv.org/pdf/2407.06494)] -->
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
 ICLR 2024 Workshop on AI4DifferentialEquations In Science (**Oral**). [[PDF](https://openreview.net/forum?id=vaKnCahjdj)] -->
 
-1. **A Generative Approach to Control Complex Physical Systems**  
+1. **Closed-loop Diffusion Control of Complex Physical Systems**  
+**Long Wei**<sup>\*</sup>, Haodong Feng<sup>\*</sup>, Yuchen Yang, Ruiqi Feng, Peiyan Hu, Xiang Zheng, Tao Zhang, Dixia Fan, Tailin Wu  
+International Conference on Learning Representations (ICLR), 2025. [[PDF](https://arxiv.org/pdf/2408.03124)]
+
+2. **A Generative Approach to Control Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
 Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024. [[PDF](https://web3.arxiv.org/abs/2407.06494)]
 
-2. **Compositional Generative Inverse Design**  
+3. **Compositional Generative Inverse Design**  
 Tailin Wu<sup>\*</sup>, Takashi Maruyama<sup>\*</sup>, **Long Wei**<sup>\*</sup>, Tao Zhang<sup>\*</sup>, Yilun Du<sup>\*</sup>, Gianluca Iaccarino, Jure Leskovec   
 International Conference on Learning Representations (ICLR), 2024 (**Spotlight**). [[PDF](https://openreview.net/forum?id=wmX0CqFSd7)]
 
-3. **SIF: Self-inspirited feature learning for person re-identification**  
+4. **SIF: Self-inspirited feature learning for person re-identification**  
 **Long Wei**, Zhenyong Wei, Zhongming Jin, Zhengxu Yu, Jianqiang Huang, Deng Cai, Xiaofei He, Xian-Sheng Hua  
 IEEE Transactions on Image Processing, 29, 4942-4951, 2020. [[PDF](https://www.researchgate.net/profile/Long-Wei-14/publication/339700962_SIF_Self-Inspirited_Feature_Learning_for_Person_Re-Identification/links/64b1eed3c41fb852dd70eb7b/SIF-Self-Inspirited-Feature-Learning-for-Person-Re-Identification.pdf)]  
 
-4. **Decouple co-adaptation: Classifier randomization for person re-identification**  
+5. **Decouple co-adaptation: Classifier randomization for person re-identification**  
 **Long Wei**, Zhenyong Wei, Zhongming Jin, Qianxiao Wei, Jianqiang Huang, Xian-Sheng Hua, Deng Cai, Xiaofei He  
 Neurocomputing, 383, 1-9, 2020.  
 
-5. **Macar: Urban traffic light control via active multi-agent communication and action rectification**  
+<!-- 5. **Macar: Urban traffic light control via active multi-agent communication and action rectification**  
 Zhengxu Yu, Shuxian Liang, **Long Wei**, Zhongming Jin, Jianqiang Huang, Deng Cai, Xiaofei He, Xian-Sheng Hua  
 Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence, IJCAI 2020. [[PDF](https://www.ijcai.org/proceedings/2020/0345.pdf)]  
 
 6. **Progressive Transfer Learning for Person Re-identification**  
 Zhengxu Yu, Zhongming Jin, **Long Wei**, Jishun Guo, Jianqiang Huang, Deng Cai, Xiaofei He, Xian-Sheng Hua  
-Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019. [[PDF](https://www.ijcai.org/proceedings/2019/0586.pdf)]
+Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019. [[PDF](https://www.ijcai.org/proceedings/2019/0586.pdf)] -->
