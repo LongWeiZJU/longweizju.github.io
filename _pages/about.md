@@ -19,16 +19,6 @@ Research Vision: Develop human-level general intelligent systems and achieve sig
 <!-- I am also interested in applying these methods across domains like mechanical engineering, aerospace, and materials design.  --> 
 <!-- Additionally, I have a keen interest in generative AI. -->
 # Recent Publication/Preprints (* means equal contribution) [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)]
-<!-- <div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: -200px;">
-    <img src="../images/profile.png" alt="Paper 1 Image" style="width: 30%;">
-  </div>
-  <div style="flex: 3; padding-left: -500px;">
-    1. **Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**  
-    Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun  
-    arXiv:2408.12171. [[PDF](https://arxiv.org/abs/2408.12171)]
-  </div>
-</div> -->
 1. **Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**  
 Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun  
 arXiv:2408.12171. [[PDF](https://arxiv.org/abs/2408.12171)]
