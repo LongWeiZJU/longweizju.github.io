@@ -18,6 +18,8 @@ Research Vision: Develop human-level general intelligent systems and achieve sig
 2. Scientific Research Agents: Explore capability boundaries of large language models and multimodal foundation models, developing intelligent agent systems composed of these advanced models for automated scientific research.<!-- My research interest generally focuses on AI for science, which involves leveraging AI tools to tackle scientific and engineering problems. Specifically, I am interested in developing new AI methods for scientific discovery, simulation, as well as design of novel objects. 
 <!-- I am also interested in applying these methods across domains like mechanical engineering, aerospace, and materials design.  --> 
 <!-- Additionally, I have a keen interest in generative AI. -->
+
+
 # Recent Publication/Preprints (* means equal contribution) [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)]
 1. **Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**  
 Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun  
