@@ -32,8 +32,7 @@ arXiv:2502.02205. [[PDF](https://arxiv.org/pdf/2502.02205)]
 
 3. **Cl-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Haodong Feng<sup>\*</sup>, Yuchen Yang, Ruiqi Feng, Peiyan Hu, Xiang Zheng, Tao Zhang, Dixia Fan, Tailin Wu  
-International Conference on Learning Representations (ICLR), 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon)]
-<font color="red"> Nomination of Outstanding Youth Paper Award </font> at [[China Embodied AI Conference (CEAI) 2025](https://ceai.caai.cn/)]
+International Conference on Learning Representations (ICLR), 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon)] <font color="red"> Nomination of Outstanding Youth Paper Award </font> at [[China Embodied AI Conference (CEAI) 2025](https://ceai.caai.cn/)]
 
 4. **DiffPhyCon: A Generative Approach to Control Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
@@ -41,7 +40,7 @@ Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIP
 
 5. **Generative PDE Control**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
-ICLR 2024 Workshop on AI4DifferentialEquations In Science (</font color="red">Oral</font>). [[PDF](https://openreview.net/forum?id=vaKnCahjdj)][[Code](https://github.com/AI4Science-WestlakeU/diffphycon)]
+ICLR 2024 Workshop on AI4DifferentialEquations In Science (<font color="red">Oral</font>). [[PDF](https://openreview.net/forum?id=vaKnCahjdj)][[Code](https://github.com/AI4Science-WestlakeU/diffphycon)]
 
 6. **Compositional Generative Inverse Design**  
 Tailin Wu<sup>\*</sup>, Takashi Maruyama<sup>\*</sup>, **Long Wei**<sup>\*</sup>, Tao Zhang<sup>\*</sup>, Yilun Du<sup>\*</sup>, Gianluca Iaccarino, Jure Leskovec   
