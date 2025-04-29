@@ -12,8 +12,8 @@ I am a postdoc researcher from [Westlake University](https://en.westlake.edu.cn/
 
 
 # Research Interest
-Research Vision: Develop human-level general intelligent systems and achieve significant breakthroughs in addressing key challenges across scientific and engineering domains. Current research focuses on:
-1. Generative AI Development & Deployment: Investigate efficient learning and sampling methods, while applying these generative techniques to accelerate scientific/engineering applications such as inverse design, control tasks.
+My research vision is to develop human-level general intelligent systems and achieve significant breakthroughs in addressing key challenges across scientific and engineering domains. My current research focuses on:
+1. Generative AI Development & Deployment: Investigate efficient learning and sampling methods, while applying these generative techniques to accelerate scientific/engineering applications such as inverse design and control tasks.
 
 2. Scientific Research Agents: Explore capability boundaries of large language models and multimodal foundation models, developing intelligent agent systems composed of these advanced models for automated scientific research.<!-- My research interest generally focuses on AI for science, which involves leveraging AI tools to tackle scientific and engineering problems. Specifically, I am interested in developing new AI methods for scientific discovery, simulation, as well as design of novel objects. 
 <!-- I am also interested in applying these methods across domains like mechanical engineering, aerospace, and materials design.  --> 
