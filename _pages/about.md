@@ -27,7 +27,7 @@ arXiv:2408.12171. [[PDF](https://arxiv.org/abs/2408.12171)]
 
 2. **From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control**  
 Peiyan Hu, Xiaowei Qian, Wenhao Deng, Rui Wang, Haodong Feng, Ruiqi Feng, Tao Zhang, **Long Wei**, Yue Wang, Zhi-Ming Ma, Tailin Wu. 
-arXiv:2502.02205. [[PDF](https://arxiv.org/pdf/2502.02205)]
+Forty-Second International Conference on Machine Learning (ICML), 2025. [[PDF](https://arxiv.org/pdf/2502.02205)]
 
 
 3. **Cl-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems**  
