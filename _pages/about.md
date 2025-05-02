@@ -30,7 +30,7 @@ Peiyan Hu, Xiaowei Qian, Wenhao Deng, Rui Wang, Haodong Feng, Ruiqi Feng, Tao Zh
 Forty-Second International Conference on Machine Learning (ICML), 2025. [[PDF](https://arxiv.org/pdf/2502.02205)]
 
 
-3. **Cl-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems**  
+3. **CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Haodong Feng<sup>\*</sup>, Yuchen Yang, Ruiqi Feng, Peiyan Hu, Xiang Zheng, Tao Zhang, Dixia Fan, Tailin Wu  
 International Conference on Learning Representations (ICLR), 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon)] <font color="red"> Nomination of Outstanding Youth Paper Award </font> at [[China Embodied AI Conference (CEAI) 2025](https://ceai.caai.cn/)]
 
