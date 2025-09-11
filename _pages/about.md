@@ -1,10 +1,12 @@
+---
 permalink: /
 title: "Long Wei (魏龙)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-<!-- --- -->
+---
+
 
 <style>
   /* 1. 基础布局：全宽内容区 + 缩小侧边栏（保留原有功能） */
