@@ -47,7 +47,7 @@ redirect_from:
 
   /* 3. 论文标题特殊处理（可选优化） */
   .page__content strong { /* 论文标题用了<strong>，避免与正文混淆 */
-    font-size: 18px !important; /* 比正文略大1px，突出论文标题 */
+    font-size: 15px !important; /* 比正文略大1px，突出论文标题 */
     font-weight: 600 !important;
   }
 </style>
@@ -55,12 +55,12 @@ redirect_from:
 <!-- # About Me -->
 I am an incoming assistant professor at the [Artificial Intelligence Innovation and Incubation (AI³) Institute](https://ai3.fudan.edu.cn/#) (人工智能创新与产业研究院) of [Fudan University](https://www.fudan.edu.cn/en/) ([复旦大学](https://www.fudan.edu.cn/)). Previously, I was a postdoctoral researcher at [Westlake University](https://en.westlake.edu.cn/) ([西湖大学](https://www.westlake.edu.cn/)), working with [Prof. Tailin Wu](https://tailin.org/). 
 Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en) ([阿里巴巴达摩院](https://damo.alibaba.com/?language=zh)). 
-I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) ([浙江大学](https://www.zju.edu.cn/)) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). Earlier, I completed my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University in 2013.
+I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) ([浙江大学](https://www.zju.edu.cn/)) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). During my doctoral studies, I was a joint PhD student in the group of [Prof. Jieping Ye](http://www.yelabs.net/) at the University of Michigan, Ann Arbor. Earlier, I completed my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University in 2013.
 
 
 # News
 - 2025/04 Our paper [*Wavelet Diffusion Neural Operator*](https://openreview.net/forum?id=FQhDIGuaJ4) is featured by [集智俱乐部](https://mp.weixin.qq.com/s/s7jVimP2lQdGlOn1q7DkHg).  
-- 2025/03 Our paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is nominated for the Outstanding Youth Paper Award at the China Embodied AI Conference (CEAI 2025). Thanks to all collaborators!  
+- 2025/03 Our paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is nominated for the Outstanding Youth Paper Award at the China Embodied AI Conference (CEAI 2025). Thanks to all collaborators!
 - 2025/02 Our paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is featured by [机器之心](https://mp.weixin.qq.com/s/nlnNMrJBCwPrf38k4uKKTA).  
 - 2025/01 I am awarded the 2024 Outstanding Postdoc Award of Westlake University.  
 - 2024/12 Our paper [*DiffPhyCon*](https://openreview.net/forum?id=MbZuh8L0Xg) is featured by [集智俱乐部](https://mp.weixin.qq.com/s/xV8GydA51Jc3OruWSUSRmA).  
@@ -119,7 +119,7 @@ ICLR 2024 (<font color="red">Spotlight</font>). [[PDF](https://openreview.net/fo
 <div style="clear: both;"></div>
 
 <img src="path/to/sif-thumbnail.jpg" alt="" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
-**SIF: Self-inspirited feature learning for person re-identification**  
+**SIF: Self-inspirited Feature Learning for Person Re-identification**  
 **Long Wei**, Zhenyong Wei, Zhongming Jin, Zhengxu Yu, Jianqiang Huang, Deng Cai, Xiaofei He, Xian-Sheng Hua  
 IEEE Transactions on Image Processing (TIP), 29, 4942-4951, 2020. [[PDF](https://www.researchgate.net/profile/Long-Wei-14/publication/339700962_SIF_Self-Inspirited_Feature_Learning_for_Person_Re-Identification/links/64b1eed3c41fb852dd70eb7b/SIF-Self-Inspirited-Feature-Learning-for-Person-Re-Identification.pdf)]  
 <div style="clear: both;"></div>
