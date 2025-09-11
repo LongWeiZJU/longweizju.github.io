@@ -28,7 +28,7 @@ redirect_from:
   .page__content a,         /* 链接文字（避免链接大小不一致） */
   .page__content font       /* 论文中红色标注文字（如获奖信息） */
   {
-    font-size: 16px !important; /* 固定像素，比标题小一半左右 */
+    font-size: 15px !important; /* 固定像素，比标题小一半左右 */
     line-height: 1.6 !important; /* 优化行高，提升可读性 */
   }
 
@@ -51,18 +51,18 @@ redirect_from:
   }
 </style>
 
-# About Me
-I am an incoming assistant professor in [Artificial Intelligence Innovation and Incubation (AI³) Institute](https://ai3.fudan.edu.cn/#) of [Fudan University](https://www.fudan.edu.cn/en/). Previously, I was a postdoctoral researcher from [Westlake University](https://en.westlake.edu.cn/), working with [Prof. Tailin Wu](https://tailin.org/). 
+<!-- # About Me -->
+I am an incoming assistant professor at the [Artificial Intelligence Innovation and Incubation (AI³) Institute](https://ai3.fudan.edu.cn/#) of [Fudan University](https://www.fudan.edu.cn/en/). Previously, I was a postdoctoral researcher at [Westlake University](https://en.westlake.edu.cn/), working with [Prof. Tailin Wu](https://tailin.org/). 
 Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en). 
-I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). I obtained my Bachelor's degree in Mathematics and Applied Mathematics from Zhejiang University in 2013.
+I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). Earlier, I completed my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University in 2013.
 
 # Research Interest
 
-My research interests primarily lie in foundational and applied research at the intersection of AI and scientific domains. My long-term goal is to develop intelligent systems that rival the capabilities of human scientists and engineers, achieving breakthroughs in key challenges across science and engineering. Currently, I focus on the following directions:
+My research interests primarily lie in the intersection of AI and scientific domains. My long-term objective is to develop intelligent systems that match the problem-solving capabilities of human scientists and engineers, achieving breakthroughs in key challenges across science and engineering. Currently, I focus on the following directions:
 
-- **Foundational Research in AI for Science**: (1) Efficient machine learning methods for scientific applications; (2) Universal approaches for complex systems modeling; (3) Development of agent systems to enable automated scientific discovery.
+- **AI for Science Foundational Research**: (1) Efficient machine learning algorithms (e.g. generative models, discriminative models) for scientific problems, with a focus on enhancing computational efficiency for large-scale scientific applications; (2) Universal approaches for modeling and computing complex systems (e.g., physical, biological, or engineering systems) that generalize across diverse domains; (3) Design of autonomous agent systems to enable end-to-end automated scientific discovery, from hypothesis generation to experiment validation.
 
-- **Applications of AI in Science**: (1) Leveraging AI to address simulation, design, and control problems in energy, embodied intelligence, and related fields; (2) Applying AI to tackle major challenges in healthcare and medical domains.
+- **AI for Science Applications**: (1) Developing AI methods to solve simulation, design, and control challenges in energy systems, embodied intelligence, and other critical engineering domains; (2) Applying AI methods to tackle major challenges in healthcare and medical domains.
 
 # Publications/Preprints [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)]
 **Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**  
