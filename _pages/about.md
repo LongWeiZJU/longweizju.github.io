@@ -28,25 +28,25 @@ redirect_from:
   .page__content a,         /* 链接文字（避免链接大小不一致） */
   .page__content font       /* 论文中红色标注文字（如获奖信息） */
   {
-    font-size: 14px !important; /* 固定像素，比标题小一半左右 */
+    font-size: 16px !important; /* 固定像素，比标题小一半左右 */
     line-height: 1.6 !important; /* 优化行高，提升可读性 */
   }
 
   /* 标题：固定大小，确保显著大于正文 */
   .page__content h1 { /* 1级标题：# About Me 等 */
-    font-size: 28px !important; /* 是正文的2倍，视觉突出 */
+    font-size: 24px !important; /* 是正文的2倍，视觉突出 */
     margin: 1.8em 0 0.8em 0 !important; /* 上下间距，强化层级 */
     font-weight: 700 !important; /* 加粗，进一步区分正文 */
   }
   .page__content h2 { /* 2级标题（若后续添加） */
-    font-size: 24px !important; /* 比正文大10px，仍显著突出 */
+    font-size: 20px !important; /* 比正文大10px，仍显著突出 */
     margin: 1.5em 0 0.6em 0 !important;
     font-weight: 600 !important;
   }
 
   /* 3. 论文标题特殊处理（可选优化） */
   .page__content strong { /* 论文标题用了<strong>，避免与正文混淆 */
-    font-size: 15px !important; /* 比正文略大1px，突出论文标题 */
+    font-size: 18px !important; /* 比正文略大1px，突出论文标题 */
     font-weight: 600 !important;
   }
 </style>
@@ -60,7 +60,7 @@ I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang Un
 
 My research interests primarily lie in foundational and applied research at the intersection of AI and scientific domains. My long-term goal is to develop intelligent systems that rival the capabilities of human scientists and engineers, achieving breakthroughs in key challenges across science and engineering. Currently, I focus on the following directions:
 
-- **Foundational Technologies in AI for Science**: (1) Efficient machine learning methods for scientific applications; (2) Universal approaches for complex systems modeling; (3) Development of agent systems to enable automated scientific discovery.
+- **Foundational Research in AI for Science**: (1) Efficient machine learning methods for scientific applications; (2) Universal approaches for complex systems modeling; (3) Development of agent systems to enable automated scientific discovery.
 
 - **Applications of AI in Science**: (1) Leveraging AI to address simulation, design, and control problems in energy, embodied intelligence, and related fields; (2) Applying AI to tackle major challenges in healthcare and medical domains.
 
