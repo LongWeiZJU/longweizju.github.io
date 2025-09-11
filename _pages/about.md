@@ -25,7 +25,7 @@ redirect_from:
 .content-container ul,
 .content-container li,
 .content-container a {
-  font-size: 0.95em;
+  font-size: 0.5em;
   line-height: 1.6;
 }
 
