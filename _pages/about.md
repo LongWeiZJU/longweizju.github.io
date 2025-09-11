@@ -46,7 +46,7 @@ redirect_from:
 
   /* 3. 论文标题特殊处理（可选优化） */
   .page__content strong { /* 论文标题用了<strong>，避免与正文混淆 */
-    font-size: 18px !important; /* 比正文略大1px，突出论文标题 */
+    font-size: 15px !important; /* 比正文略大1px，突出论文标题 */
     font-weight: 600 !important;
   }
 </style>
