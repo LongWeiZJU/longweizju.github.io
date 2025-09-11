@@ -56,15 +56,25 @@ I am an incoming assistant professor at the [Artificial Intelligence Innovation 
 Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en). 
 I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). Earlier, I completed my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University in 2013.
 
+
+# News
+2025/04 Our paper [[*Wavelet Diffusion Neural Operator*](https://openreview.net/forum?id=FQhDIGuaJ4)] is featured by [[集智俱乐部](https://mp.weixin.qq.com/s/s7jVimP2lQdGlOn1q7DkHg)].  
+2025/03 Our paper [[*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb)] is nominated for the Outstanding Youth Paper Award at the China Embodied AI Conference (CEAI 2025). Thanks to all collaborators!  
+2025/02 Our paper [[*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb)] is featured by [[机器之心](https://mp.weixin.qq.com/s/nlnNMrJBCwPrf38k4uKKTA)].  
+2025/01 I am awarded the 2024 Outstanding Postdoc Award of Westlake University.  
+2024/12 Our paper [[*DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb)] is featured by [[集智俱乐部](https://mp.weixin.qq.com/s/xV8GydA51Jc3OruWSUSRmA)].  
+2024/10 I am awarded the support of the Zhejiang Province Outstanding Postdoctoral Funding Program (China).
+2024/05 I give an Oral Presentation on our paper [[*Generative PDE Control*](https://openreview.net/forum?id=vaKnCahjdj)] at the [[ICLR 2024 Workshop on AI4DifferentialEquations in Science](https://ai4diffeqtnsinsci.github.io/schedule)].
+
 # Research Interest
 
 My research interests primarily lie in the intersection of AI and scientific domains. My long-term objective is to develop intelligent systems that match the problem-solving capabilities of human scientists and engineers, achieving breakthroughs in key challenges across science and engineering. Currently, I focus on the following directions:
 
-- **AI for Science Foundational Research**: (1) Efficient machine learning algorithms (e.g. generative models, discriminative models) for scientific problems, with a focus on enhancing computational efficiency for large-scale scientific applications; (2) Universal approaches for modeling and computing complex systems (e.g., physical, biological, or engineering systems) that generalize across diverse domains; (3) Design of autonomous agent systems to enable end-to-end automated scientific discovery, from hypothesis generation to experiment validation.
+- **AI for Science Foundational Research**: (1) Efficient machine learning algorithms for scientific problems, with a focus on enhancing computational efficiency for large-scale scientific applications; (2) Universal approaches for modeling and computing complex systems (e.g., physical, biological, or engineering systems) that generalize across diverse domains; (3) Design of autonomous agent systems to enable end-to-end automated scientific discovery, from hypothesis generation to experiment validation.
 
 - **AI for Science Applications**: (1) Developing AI methods to solve simulation, design, and control challenges in energy systems, embodied intelligence, and other critical engineering domains; (2) Applying AI methods to tackle major challenges in healthcare and medical domains.
 
-# Publications/Preprints [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)]
+# Publications/Preprints # [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)]
 **Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**  
 Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun  
 arXiv:2408.12171. [[PDF](https://arxiv.org/abs/2408.12171)]
