@@ -9,10 +9,11 @@ redirect_from:
 
 <!-- <div style="font-size: 90%;"> -->
 <style>  
-  /* 拓宽主内容区域到页面全宽，不改变字体大小 */  
+  /* 拓宽主内容区域到页面全宽，不改变字体大小（来自上一个修改） */  
   .page__content {  
     max-width: 100% !important; /* 覆盖默认 max-width */  
     width: 100% !important;     /* 确保全宽 */  
+    font-size: 90% !important;  /* 新增：减小主内容区域的字体大小（相对减小10%） */  
   }  
   .archive__content {  
     max-width: 100% !important; /* 如果页面使用 archive 类 */  
@@ -20,6 +21,10 @@ redirect_from:
   /* 可选：如果侧边栏太宽，可以缩小它 */  
   .sidebar {  
     max-width: 20% !important;  /* 缩小侧边栏以给主内容更多空间 */  
+  }  
+  /* 新增：确保标题、段落、列表等元素的字体也减小 */  
+  .page__content h1, .page__content h2, .page__content p, .page__content li, .page__content a {  
+    font-size: 90% !important;  /* 相对减小10%，覆盖特定元素 */  
   }  
 </style>  
 
