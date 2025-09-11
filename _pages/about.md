@@ -8,28 +8,49 @@ redirect_from:
 ---
 
 <style>
-  /* 拓宽主内容区域到页面全宽，不改变字体大小（来自上一个修改） */
+  /* 1. 基础布局：全宽内容区 + 缩小侧边栏（保留原有功能） */
   .page__content {
-    max-width: 100% !important; /* 覆盖默认 max-width */
-    width: 100% !important;     /* 确保全宽 */
-    font-size: 90% !important;  /* 新增：减小主内容区域的字体大小（相对减小10%），但标题除外 */
+    max-width: 100% !important; /* 覆盖默认宽度，实现全宽 */
+    width: 100% !important;     
+    padding: 0 20px !important; /* 加左右内边距，避免文字贴边 */
   }
   .archive__content {
-    max-width: 100% !important; /* 如果页面使用 archive 类 */
+    max-width: 100% !important; /* 兼容archive类页面 */
   }
-  /* 可选：如果侧边栏太宽，可以缩小它 */
   .sidebar {
-    max-width: 20% !important;  /* 缩小侧边栏以给主内容更多空间 */
+    max-width: 20% !important; /* 缩小侧边栏，给主内容更多空间 */
   }
-  /* 新增：只减小正文元素的字体大小，不影响标题 */
-  .page__content p, .page__content li, .page__content a {
-    font-size: 90% !important;  /* 相对减小10%，只应用于正文 */
+
+  /* 2. 字体大小核心设置：标题显著大于正文（整合你的需求） */
+  /* 正文：固定14px（清晰易读，与标题拉开差距） */
+  .page__content p,        /* 普通段落正文 */
+  .page__content li,        /* 列表项正文 */
+  .page__content a,         /* 链接文字（避免链接大小不一致） */
+  .page__content font       /* 论文中红色标注文字（如获奖信息） */
+  {
+    font-size: 14px !important; /* 固定像素，比标题小一半左右 */
+    line-height: 1.6 !important; /* 优化行高，提升可读性 */
   }
-  /* 确保标题保持默认大小（显著大于正文），并一致 */
-  .page__content h1, .page__content h2 {
-    font-size: inherit !important;  /* 保持主题默认大小，不减小 */
+
+  /* 标题：固定大小，确保显著大于正文 */
+  .page__content h1 { /* 1级标题：# About Me 等 */
+    font-size: 28px !important; /* 是正文的2倍，视觉突出 */
+    margin: 1.8em 0 0.8em 0 !important; /* 上下间距，强化层级 */
+    font-weight: 700 !important; /* 加粗，进一步区分正文 */
+  }
+  .page__content h2 { /* 2级标题（若后续添加） */
+    font-size: 24px !important; /* 比正文大10px，仍显著突出 */
+    margin: 1.5em 0 0.6em 0 !important;
+    font-weight: 600 !important;
+  }
+
+  /* 3. 论文标题特殊处理（可选优化） */
+  .page__content strong { /* 论文标题用了<strong>，避免与正文混淆 */
+    font-size: 15px !important; /* 比正文略大1px，突出论文标题 */
+    font-weight: 600 !important;
   }
 </style>
+
 # About Me
 I am an incoming assistant professor in [Artificial Intelligence Innovation and Incubation (AI³) Institute](https://ai3.fudan.edu.cn/#) of [Fudan University](https://www.fudan.edu.cn/en/). Previously, I was a postdoctoral researcher from [Westlake University](https://en.westlake.edu.cn/), working with [Prof. Tailin Wu](https://tailin.org/). 
 Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en). 
@@ -39,16 +60,11 @@ I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang Un
 
 My research interests primarily lie in foundational and applied research at the intersection of AI and scientific domains. My long-term goal is to develop intelligent systems that rival the capabilities of human scientists and engineers, achieving breakthroughs in key challenges across science and engineering. Currently, I focus on the following directions:
 
-- **Foundational Technologies in AI for Science:**
-  - Efficient learning and sampling methods for generative models such as diffusion and autoregressive models, providing generative tools for scientific applications;
-  - Universal and versatile approaches for modeling and computing complex systems;
-  - Development of agent systems to enable automated scientific discovery.
+- **Foundational Technologies in AI for Science**: (1) Efficient machine learning methods for scientific applications; (2) Universal approaches for complex systems modeling; (3) Development of agent systems to enable automated scientific discovery.
 
-- **Applications of AI in Science:**
-  - Leveraging AI to address simulation, design, and control problems in energy, embodied intelligence, and related fields;
-  - Applying AI to tackle major challenges in healthcare and medical domains.
+- **Applications of AI in Science**: (1) Leveraging AI to address simulation, design, and control problems in energy, embodied intelligence, and related fields; (2) Applying AI to tackle major challenges in healthcare and medical domains.
 
-# Recent Publication/Preprints (* means equal contribution) [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)]
+# Publications/Preprints [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)]
 **Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**  
 Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun  
 arXiv:2408.12171. [[PDF](https://arxiv.org/abs/2408.12171)]
