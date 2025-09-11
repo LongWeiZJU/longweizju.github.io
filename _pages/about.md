@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "About Me"
+title: "Long Wei (魏龙)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,11 +26,10 @@ redirect_from:
     font-size: 90% !important;  /* 相对减小10%，只应用于正文 */
   }
   /* 确保标题保持默认大小（显著大于正文），并一致 */
-  .page__content h1, .page__content h3 {
+  .page__content h1, .page__content h2 {
     font-size: inherit !important;  /* 保持主题默认大小，不减小 */
   }
 </style>
-
 # About Me
 I am an incoming assistant professor in [Artificial Intelligence Innovation and Incubation (AI³) Institute](https://ai3.fudan.edu.cn/#) of [Fudan University](https://www.fudan.edu.cn/en/). Previously, I was a postdoctoral researcher from [Westlake University](https://en.westlake.edu.cn/), working with [Prof. Tailin Wu](https://tailin.org/). 
 Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en). 
