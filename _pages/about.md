@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="max-width: 80%; margin: 0 auto; font-size: 90%;">
+<div style="font-size: 90%;">
 
 
 <!-- # About Me -->
