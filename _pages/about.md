@@ -57,6 +57,16 @@ I am an incoming assistant professor at the [Artificial Intelligence Innovation 
 Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en) ([阿里巴巴达摩院](https://damo.alibaba.com/?language=zh)). 
 I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) ([浙江大学](https://www.zju.edu.cn/)) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). During my doctoral studies, I was a joint PhD student in the group of [Prof. Jieping Ye](http://www.yelabs.net/) at the University of Michigan, Ann Arbor. Earlier, I completed my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University in 2013.
 
+My group is actively recruiting for multiple positions to join our research, including postdoctoral researchers, research assistants, Ph.D. students, and master’s students. We also welcome applications for research internships (open to undergraduate/master/doctoral students, and individuals on a gap year).
+If you have a strong motivation for exploring interdisciplinary research at the intersection of AI and science, as outlined in the following Research Interests section, please reach out to me as soon as possible.
+
+# Research Interests
+
+My research interests primarily lie in the intersection of AI and scientific domains. My long-term objective is to develop intelligent systems that match the problem-solving capabilities of human scientists and engineers, achieving breakthroughs in key challenges across science and engineering. Currently, I focus on the following directions:
+
+- **AI for Science Foundational Research**: (1) Efficient machine learning algorithms for scientific problems; (2) Universal approaches for modeling and computing complex systems (e.g., physical, biological, or engineering systems) that generalize across diverse domains; (3) Design of autonomous agent systems to enable automated scientific discovery.
+
+- **AI for Science Applications**: (1) Developing AI methods to solve simulation, design, and control challenges in energy systems, embodied intelligence, and other critical engineering domains; (2) Applying AI methods to tackle major challenges in healthcare and medical domains.
 
 # News
 - 2025/04 Our paper [*Wavelet Diffusion Neural Operator*](https://openreview.net/forum?id=FQhDIGuaJ4) is featured by [集智俱乐部](https://mp.weixin.qq.com/s/s7jVimP2lQdGlOn1q7DkHg).  
@@ -67,13 +77,6 @@ I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang Un
 - 2024/10 I am supported by the Zhejiang Province Outstanding Postdoctoral Funding Program (China).
 - 2024/05 I give an Oral Presentation on our paper [*Generative PDE Control*](https://openreview.net/forum?id=vaKnCahjdj) at [ICLR 2024 Workshop on AI4DifferentialEquations in Science](https://ai4diffeqtnsinsci.github.io/schedule).
 
-# Research Interest
-
-My research interests primarily lie in the intersection of AI and scientific domains. My long-term objective is to develop intelligent systems that match the problem-solving capabilities of human scientists and engineers, achieving breakthroughs in key challenges across science and engineering. Currently, I focus on the following directions:
-
-- **AI for Science Foundational Research**: (1) Efficient machine learning algorithms for scientific problems; (2) Universal approaches for modeling and computing complex systems (e.g., physical, biological, or engineering systems) that generalize across diverse domains; (3) Design of autonomous agent systems to enable automated scientific discovery.
-
-- **AI for Science Applications**: (1) Developing AI methods to solve simulation, design, and control challenges in energy systems, embodied intelligence, and other critical engineering domains; (2) Applying AI methods to tackle major challenges in healthcare and medical domains.
 
 # Selected Publications/Preprints 
 <!-- # [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)] -->
