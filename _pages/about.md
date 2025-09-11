@@ -20,11 +20,11 @@ redirect_from:
   }  
   /* 可选：如果侧边栏太宽，可以缩小它 */  
   .sidebar {  
-    max-width: 20% !important;  /* 缩小侧边栏以给主内容更多空间 */  
+    max-width: 10% !important;  /* 缩小侧边栏以给主内容更多空间 */  
   }  
   /* 新增：确保标题、段落、列表等元素的字体也减小 */  
   .page__content h1, .page__content h2, .page__content p, .page__content li, .page__content a {  
-    font-size: 90% !important;  /* 相对减小10%，覆盖特定元素 */  
+    font-size: 95% !important;  /* 相对减小10%，覆盖特定元素 */  
   }  
 </style>  
 
