@@ -8,7 +8,29 @@ redirect_from:
 ---
 
 <!-- <div style="font-size: 90%;"> -->
+<style>
+/* 限制内容宽度并居中 */
+.content-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
 
+/* 减小所有文字字号 */
+.content-container, 
+.content-container h1, 
+.content-container h2, 
+.content-container h3,
+.content-container p,
+.content-container ul,
+.content-container li,
+.content-container a {
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+
+</style>
 
 <!-- # About Me -->
 I am an incoming assistant professor in [Artificial Intelligence Innovation and Incubation (AI³) Institute](https://ai3.fudan.edu.cn/#) of [Fudan University](https://www.fudan.edu.cn/en/). Previously, I was a postdoctoral researcher from [Westlake University](https://en.westlake.edu.cn/), working with [Prof. Tailin Wu](https://tailin.org/). 
