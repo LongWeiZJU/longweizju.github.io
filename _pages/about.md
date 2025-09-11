@@ -52,9 +52,9 @@ redirect_from:
 </style>
 
 <!-- # About Me -->
-I am an incoming assistant professor at the [Artificial Intelligence Innovation and Incubation (AI³) Institute](https://ai3.fudan.edu.cn/#)(人工智能创新与产业研究院) of [Fudan University](https://www.fudan.edu.cn/en/)([复旦大学](https://www.fudan.edu.cn/)). Previously, I was a postdoctoral researcher at [Westlake University](https://en.westlake.edu.cn/)([西湖大学](https://www.westlake.edu.cn/)), working with [Prof. Tailin Wu](https://tailin.org/). 
-Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en)([阿里巴巴达摩院](https://damo.alibaba.com/?language=zh)). 
-I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/)([浙江大学](https://www.zju.edu.cn/)) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). Earlier, I completed my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University in 2013.
+I am an incoming assistant professor at the [Artificial Intelligence Innovation and Incubation (AI³) Institute](https://ai3.fudan.edu.cn/#) (人工智能创新与产业研究院) of [Fudan University](https://www.fudan.edu.cn/en/) ([复旦大学](https://www.fudan.edu.cn/)). Previously, I was a postdoctoral researcher at [Westlake University](https://en.westlake.edu.cn/) ([西湖大学](https://www.westlake.edu.cn/)), working with [Prof. Tailin Wu](https://tailin.org/). 
+Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en) ([阿里巴巴达摩院](https://damo.alibaba.com/?language=zh)). 
+I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) ([浙江大学](https://www.zju.edu.cn/)) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). Earlier, I completed my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University in 2013.
 
 
 # News
@@ -85,15 +85,15 @@ arXiv:2408.12171. [[PDF](https://arxiv.org/abs/2408.12171)]
 
 **From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control**  
 Peiyan Hu, Xiaowei Qian, Wenhao Deng, Rui Wang, Haodong Feng, Ruiqi Feng, Tao Zhang, **Long Wei**, Yue Wang, Zhi-Ming Ma, Tailin Wu. 
-Forty-Second International Conference on Machine Learning (ICML), 2025. [[PDF](https://arxiv.org/pdf/2502.02205)]
+ICML 2025. [[PDF](https://arxiv.org/pdf/2502.02205)]
 
 **CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Haodong Feng<sup>\*</sup>, Yuchen Yang, Ruiqi Feng, Peiyan Hu, Xiang Zheng, Tao Zhang, Dixia Fan, Tailin Wu  
-International Conference on Learning Representations (ICLR), 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon)] <font color="red"> Nomination of Outstanding Youth Paper Award </font> at [[China Embodied AI Conference (CEAI) 2025](https://ceai.caai.cn/)]
+ICLR 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon)] <font color="red"> Nomination of Outstanding Youth Paper Award </font> at [[China Embodied AI Conference (CEAI) 2025](https://ceai.caai.cn/)]
 
 **DiffPhyCon: A Generative Approach to Control Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
-Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024. [[PDF](https://web3.arxiv.org/abs/2407.06494)][[Code](https://github.com/AI4Science-WestlakeU/diffphycon)]
+NeurIPS 2024. [[PDF](https://web3.arxiv.org/abs/2407.06494)][[Code](https://github.com/AI4Science-WestlakeU/diffphycon)]
 
 **Generative PDE Control**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
@@ -101,11 +101,11 @@ Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIP
 
 **Compositional Generative Inverse Design**  
 Tailin Wu<sup>\*</sup>, Takashi Maruyama<sup>\*</sup>, **Long Wei**<sup>\*</sup>, Tao Zhang<sup>\*</sup>, Yilun Du<sup>\*</sup>, Gianluca Iaccarino, Jure Leskovec   
-International Conference on Learning Representations (ICLR), 2024 (<font color="red">Spotlight</font>). [[PDF](https://openreview.net/forum?id=wmX0CqFSd7)][[Code](https://github.com/AI4Science-WestlakeU/cindm)]
+ICLR 2024 (<font color="red">Spotlight</font>). [[PDF](https://openreview.net/forum?id=wmX0CqFSd7)][[Code](https://github.com/AI4Science-WestlakeU/cindm)]
 
 **SIF: Self-inspirited feature learning for person re-identification**  
 **Long Wei**, Zhenyong Wei, Zhongming Jin, Zhengxu Yu, Jianqiang Huang, Deng Cai, Xiaofei He, Xian-Sheng Hua  
-IEEE Transactions on Image Processing, 29, 4942-4951, 2020. [[PDF](https://www.researchgate.net/profile/Long-Wei-14/publication/339700962_SIF_Self-Inspirited_Feature_Learning_for_Person_Re-Identification/links/64b1eed3c41fb852dd70eb7b/SIF-Self-Inspirited-Feature-Learning-for-Person-Re-Identification.pdf)]  
+IEEE Transactions on Image Processing (TIP), 29, 4942-4951, 2020. [[PDF](https://www.researchgate.net/profile/Long-Wei-14/publication/339700962_SIF_Self-Inspirited_Feature_Learning_for_Person_Re-Identification/links/64b1eed3c41fb852dd70eb7b/SIF-Self-Inspirited-Feature-Learning-for-Person-Re-Identification.pdf)]  
 
 <!-- **Decouple co-adaptation: Classifier randomization for person re-identification**  
 **Long Wei**, Zhenyong Wei, Zhongming Jin, Qianxiao Wei, Jianqiang Huang, Xian-Sheng Hua, Deng Cai, Xiaofei He  
