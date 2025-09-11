@@ -8,16 +8,43 @@ redirect_from:
 ---
 
 <!-- # About Me -->
-I am a postdoc researcher from [Westlake University](https://en.westlake.edu.cn/), working with [Prof. Tailin Wu](https://tailin.org/). Previously, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en). I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/).
+I am an incoming assistant professor in [Artificial Intelligence Innovation and Incubation (AI³) Institute](https://ai3.fudan.edu.cn/#) of [Fudan University](https://www.fudan.edu.cn/en/). Previously, I was a postdoctoral researcher from [Westlake University](https://en.westlake.edu.cn/), working with [Prof. Tailin Wu](https://tailin.org/). 
+Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en). 
+I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). I obtained my Bachelor's degree in Mathematics and Applied Mathematics from Zhejiang University in 2013.
 
 
 # Research Interest
+
+My research interests primarily lie in foundational and applied research at the intersection of AI and scientific domains. My long-term goal is to develop intelligent systems that rival the capabilities of human scientists and engineers, achieving breakthroughs in key challenges across science and engineering. Currently, I focus on the following directions:
+
+- **Foundational Technologies in AI for Science:**
+  - Efficient learning and sampling methods for generative models such as diffusion and autoregressive models, providing generative tools for scientific applications;
+  - Universal and versatile approaches for modeling and computing complex systems;
+  - Development of agent systems to enable automated scientific discovery.
+
+- **Applications of AI in Science:**
+  - Leveraging AI to address simulation, design, and control problems in energy, embodied intelligence, and related fields;
+  - Applying AI to tackle major challenges in healthcare and medical domains.
+
+<!-- My research interests primarily lie in foundational and applied research at the intersection of AI and scientific domains. My long-term goal is to develop intelligent systems that rival the capabilities of human scientists and engineers, achieving breakthroughs in key challenges across science and engineering. Currently, I focus on the following directions:
+
+
+1. Foundational Technologies in AI for Science:
+
+Efficient learning and sampling methods for generative models such as diffusion and autoregressive models, providing generative tools for scientific applications;
+Universal and versatile approaches for modeling and computing complex systems;
+Development of agent systems to enable automated scientific discovery.
+Applications of AI in Science:
+
+Leveraging AI to address simulation, design, and control problems in energy, embodied intelligence, and related fields;
+Applying AI to tackle major challenges in healthcare and medical domains.
+
 My research vision is to develop human-level general intelligent systems and achieve significant breakthroughs in addressing key challenges across scientific and engineering domains. My current research focuses on:
 1. Generative AI Development & Deployment: Investigate efficient learning and sampling methods, while applying these generative techniques to accelerate scientific/engineering applications such as inverse design and control tasks.
 
 2. Scientific Research Agents: Explore capability boundaries of large language models and multimodal foundation models, developing intelligent agent systems composed of these advanced models for automated scientific research.<!-- My research interest generally focuses on AI for science, which involves leveraging AI tools to tackle scientific and engineering problems. Specifically, I am interested in developing new AI methods for scientific discovery, simulation, as well as design of novel objects. 
 <!-- I am also interested in applying these methods across domains like mechanical engineering, aerospace, and materials design.  --> 
-<!-- Additionally, I have a keen interest in generative AI. -->
+<!-- Additionally, I have a keen interest in generative AI. --> 
 
 
 # Recent Publication/Preprints (* means equal contribution) [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)]
