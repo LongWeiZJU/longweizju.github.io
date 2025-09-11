@@ -57,7 +57,7 @@ I am an incoming assistant professor at the [Artificial Intelligence Innovation 
 Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en) ([阿里巴巴达摩院](https://damo.alibaba.com/?language=zh)). 
 I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) ([浙江大学](https://www.zju.edu.cn/)) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). During my doctoral studies, I was a joint PhD student in the group of [Prof. Jieping Ye](http://www.yelabs.net/) at the University of Michigan, Ann Arbor. Earlier, I completed my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University in 2013.
 
-My group is actively recruiting for multiple positions to join our research, including postdoctoral researchers, research assistants, Ph.D. students (Fall 2026), and master’s students (Fall 2026). We also welcome applications for research internships (open to undergraduate/master/doctoral students, and individuals on a gap year).
+My group is actively recruiting for multiple positions to join our research, including postdoctoral researchers, research assistants, Ph.D. students (Fall 2026), and master’s students (Fall 2026). We also welcome applications for research internships, open to undergraduate/master/doctoral students, and individuals on a gap year.
 If you have a strong motivation for exploring interdisciplinary research at the intersection of AI and science, as outlined in the following Research Interests section, please do not hesitate to contact me.
 
 # Research Interests
