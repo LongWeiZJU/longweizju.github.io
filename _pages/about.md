@@ -101,7 +101,7 @@ ICML 2025. [[PDF](https://arxiv.org/pdf/2502.02205)]
 **CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Haodong Feng<sup>\*</sup>, Yuchen Yang, Ruiqi Feng, Peiyan Hu, Xiang Zheng, Tao Zhang, Dixia Fan, Tailin Wu  
 ICLR 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon)] 
-<font color="red"> Nomination of Outstanding Youth Paper Award </font> at [China Embodied AI Conference (CEAI) 2025](https://ceai.caai.cn/)  
+<!-- <font color="red"> Nomination of Outstanding Youth Paper Award </font> at [China Embodied AI Conference (CEAI) 2025](https://ceai.caai.cn/)   -->
 <div style="clear: both;"></div>
 
 <img src="path/to/diffphycon-thumbnail.jpg" alt="" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
