@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+# title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,7 +26,7 @@ redirect_from:
     font-size: 90% !important;  /* 相对减小10%，只应用于正文 */
   }
   /* 确保标题保持默认大小（显著大于正文），并一致 */
-  .page__content h1, .page__content h2 {
+  .page__content h1, .page__content h3 {
     font-size: inherit !important;  /* 保持主题默认大小，不减小 */
   }
 </style>
