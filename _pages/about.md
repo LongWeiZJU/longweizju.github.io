@@ -70,7 +70,7 @@ My research interests primarily lie in the intersection of AI and scientific dom
 
 # News
 - 2025/04 Our paper [*Wavelet Diffusion Neural Operator*](https://openreview.net/forum?id=FQhDIGuaJ4) is featured by [集智俱乐部](https://mp.weixin.qq.com/s/s7jVimP2lQdGlOn1q7DkHg).  
-- 2025/03 Our paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is nominated for the Outstanding Youth Paper Award at the China Embodied AI Conference (CEAI 2025). Thanks to all collaborators!
+- 2025/03 Our paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is nominated for the Outstanding Youth Paper Award at the China Embodied AI Conference (CEAI 2025). Thanks to all the collaborators!
 - 2025/02 Our paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is featured by [机器之心](https://mp.weixin.qq.com/s/nlnNMrJBCwPrf38k4uKKTA).  
 - 2025/01 I am awarded the 2024 Outstanding Postdoc Award of Westlake University.  
 - 2024/12 Our paper [*DiffPhyCon*](https://openreview.net/forum?id=MbZuh8L0Xg) is featured by [集智俱乐部](https://mp.weixin.qq.com/s/xV8GydA51Jc3OruWSUSRmA).  
@@ -100,7 +100,8 @@ ICML 2025. [[PDF](https://arxiv.org/pdf/2502.02205)]
 <img src="path/to/cl-diffphycon-thumbnail.jpg" alt="" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
 **CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Haodong Feng<sup>\*</sup>, Yuchen Yang, Ruiqi Feng, Peiyan Hu, Xiang Zheng, Tao Zhang, Dixia Fan, Tailin Wu  
-ICLR 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon)] <font color="red"> Nomination of Outstanding Youth Paper Award </font> at [[China Embodied AI Conference (CEAI) 2025](https://ceai.caai.cn/)]  
+ICLR 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon)] 
+<font color="red"> Nomination of Outstanding Youth Paper Award </font> at [China Embodied AI Conference (CEAI) 2025](https://ceai.caai.cn/)  
 <div style="clear: both;"></div>
 
 <img src="path/to/diffphycon-thumbnail.jpg" alt="" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
@@ -112,7 +113,7 @@ NeurIPS 2024. [[PDF](https://web3.arxiv.org/abs/2407.06494)][[Code](https://gith
 <img src="path/to/generative-pde-control-thumbnail.jpg" alt="" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
 **Generative PDE Control**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
-[[ICLR 2024 Workshop on AI4DifferentialEquations In Science](https://ai4diffeqtnsinsci.github.io/schedule)] (<font color="red">Oral</font>). [[PDF](https://openreview.net/forum?id=vaKnCahjdj)][[Code](https://github.com/AI4Science-WestlakeU/diffphycon)]  
+[ICLR 2024 Workshop on AI4DifferentialEquations In Science](https://ai4diffeqtnsinsci.github.io/schedule) (<font color="red">Oral</font>). [[PDF](https://openreview.net/forum?id=vaKnCahjdj)][[Code](https://github.com/AI4Science-WestlakeU/diffphycon)]  
 <div style="clear: both;"></div>
 
 <img src="path/to/compositional-generative-inverse-design-thumbnail.jpg" alt="" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
