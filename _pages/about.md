@@ -118,7 +118,7 @@ ICLR 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/A
 <!-- <font color="red"> Nomination of Outstanding Youth Paper Award </font> at [China Embodied AI Conference (CEAI) 2025](https://ceai.caai.cn/)   -->
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/diffphycon-thumbnail.png" alt="DiffPhyCon thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/diffphycon-thumbnail.png" alt="DiffPhyCon thumbnail" style="display: inline-block; vertical-align: middle; margin-right: 25px; width: 240px; height: auto; margin-bottom: 15px; margin-top: 0;">  
 **DiffPhyCon: A Generative Approach to Control Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
 NeurIPS 2024. [[PDF](https://web3.arxiv.org/abs/2407.06494)][[Code](https://github.com/AI4Science-WestlakeU/diffphycon)]  
