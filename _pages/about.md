@@ -76,12 +76,12 @@ My research interests primarily lie in the intersection of AI and scientific dom
 - **AI for Science Applications**: (1) Developing AI methods to solve simulation, design, and control challenges in energy systems, embodied intelligence, and other critical engineering domains; (2) Applying AI methods to tackle major challenges in healthcare and medical domains.
 
 # News
-- 2025/04 Our paper [*Wavelet Diffusion Neural Operator*](https://openreview.net/forum?id=FQhDIGuaJ4) is featured by [集智俱乐部](https://mp.weixin.qq.com/s/s7jVimP2lQdGlOn1q7DkHg).  
-- 2025/03 Our paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is nominated for the Outstanding Youth Paper Award at the China Embodied AI Conference (CEAI 2025). Thanks to all the collaborators!
-- 2025/02 Our paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is featured by [机器之心](https://mp.weixin.qq.com/s/nlnNMrJBCwPrf38k4uKKTA).  
+- 2025/04 Our ICLR 2025 paper [*Wavelet Diffusion Neural Operator*](https://openreview.net/forum?id=FQhDIGuaJ4) is featured by [集智俱乐部](https://mp.weixin.qq.com/s/s7jVimP2lQdGlOn1q7DkHg).  
+- 2025/03 Our ICLR 2025 paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is nominated for the Outstanding Youth Paper Award at the China Embodied AI Conference (CEAI 2025). Thanks to all the collaborators!
+- 2025/02 Our ICLR 2025 paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is featured by [机器之心](https://mp.weixin.qq.com/s/nlnNMrJBCwPrf38k4uKKTA).  
 - 2025/01 I am awarded the 2024 Outstanding Postdoc Award of Westlake University.  
-- 2024/12 Our paper [*DiffPhyCon*](https://openreview.net/forum?id=MbZuh8L0Xg) is featured by [集智俱乐部](https://mp.weixin.qq.com/s/xV8GydA51Jc3OruWSUSRmA).  
-- 2024/10 I am supported by the Zhejiang Province Outstanding Postdoctoral Funding Program (China).
+- 2024/12 Our NeurIPS 2025 paper [*DiffPhyCon*](https://openreview.net/forum?id=MbZuh8L0Xg) is featured by [集智俱乐部](https://mp.weixin.qq.com/s/xV8GydA51Jc3OruWSUSRmA).  
+- 2024/10 I am supported by the Outstanding Postdoctoral Funding Program of Zhejiang Province, China.
 - 2024/05 I give an Oral Presentation on our paper [*Generative PDE Control*](https://openreview.net/forum?id=vaKnCahjdj) at [ICLR 2024 Workshop on AI4DifferentialEquations in Science](https://ai4diffeqtnsinsci.github.io/schedule).
 
 
