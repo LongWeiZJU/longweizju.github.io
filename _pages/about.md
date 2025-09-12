@@ -105,7 +105,7 @@ Peiyan Hu<sup>\*</sup>, Xiaowei Qian<sup>\*</sup>, Wenhao Deng, Rui Wang, Haodon
 ICML 2025. [[PDF](https://arxiv.org/pdf/2502.02205)][[Code](https://github.com/AI4Science-WestlakeU/safediffcon)]
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/wdno-thumbnail.png" alt="Wavelet Diffusion Neural Operator thumbnail" style=style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/wdno-thumbnail.png" alt="Wavelet Diffusion Neural Operator thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **Wavelet Diffusion Neural Operator**  
 Peiyan Hu<sup>\*</sup>, Rui Wang<sup>\*</sup>, Xiang Zheng, Tao Zhang, Haodong Feng, Ruiqi Feng, **Long Wei**, Yue Wang, Zhi-Ming Ma, Tailin Wu  
 ICLR 2025. [[PDF](https://arxiv.org/pdf/2412.04833)][[Code](https://github.com/AI4Science-WestlakeU/wdno)]
@@ -124,7 +124,7 @@ ICLR 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/A
 NeurIPS 2024. [[PDF](https://web3.arxiv.org/abs/2407.06494)][[Code](https://github.com/AI4Science-WestlakeU/diffphycon)]  
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/diffphycon-thumbnail.png" alt="Generative PDE Control thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/generative-pde-control-thumbnail.png" alt="Generative PDE Control thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **Generative PDE Control**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
 [ICLR 2024 Workshop on AI4DifferentialEquations In Science](https://ai4diffeqtnsinsci.github.io/schedule) (<font color="red">Oral</font>). [[PDF](https://openreview.net/forum?id=vaKnCahjdj)][[Code](https://github.com/AI4Science-WestlakeU/diffphycon)]  
