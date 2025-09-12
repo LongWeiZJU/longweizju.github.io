@@ -93,7 +93,7 @@ Haodong Feng<sup>\*</sup>, Haoren Zheng<sup>\*</sup>, Peiyan Hu, Hongyuan Liu, C
 Preprint. [[PDF](https://assets-eu.researchsquare.com/files/rs-6881567/v2_covered_108cb63b-c349-4b40-9e71-b2f1dffc28a9.pdf?c=1750707611)]  
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/CDF-survey.png" alt="ML for CFD Survey thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/CFD-survey.png" alt="ML for CFD Survey thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**  
 Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun  
 Preprint. [[PDF](https://arxiv.org/abs/2408.12171)]  
@@ -111,7 +111,7 @@ Peiyan Hu<sup>\*</sup>, Rui Wang<sup>\*</sup>, Xiang Zheng, Tao Zhang, Haodong F
 ICLR 2025. [[PDF](https://arxiv.org/pdf/2412.04833)][[Code](https://github.com/AI4Science-WestlakeU/wdno)]
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/cl-diffphcon-thumbnail.png" alt="CL-DiffPhyCon thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/cl-diffphycon-thumbnail.png" alt="CL-DiffPhyCon thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Haodong Feng<sup>\*</sup>, Yuchen Yang, Ruiqi Feng, Peiyan Hu, Xiang Zheng, Tao Zhang, Dixia Fan, Tailin Wu  
 ICLR 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon)] 
