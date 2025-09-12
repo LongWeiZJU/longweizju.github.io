@@ -99,7 +99,7 @@ Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Son
 Preprint. [[PDF](https://arxiv.org/abs/2408.12171)]  
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/safepde-thumbnail.png" alt="Safe PDE Control thumbnail" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/safepde-thumbnail.png" alt="Safe PDE Control thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control**  
 Peiyan Hu<sup>\*</sup>, Xiaowei Qian<sup>\*</sup>, Wenhao Deng, Rui Wang, Haodong Feng, Ruiqi Feng, Tao Zhang, **Long Wei**, Yue Wang, Zhi-Ming Ma, Tailin Wu  
 ICML 2025. [[PDF](https://arxiv.org/pdf/2502.02205)][[Code](https://github.com/AI4Science-WestlakeU/safediffcon)]
