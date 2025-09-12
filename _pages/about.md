@@ -89,7 +89,7 @@ My research interests primarily lie in the intersection of AI and scientific dom
 <!-- # [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)] -->
 <img src="path/to/fluidzero-thumbnail.jpg" alt="" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
 **FluidZero: Mastering Diverse Tasks in Fluid Systems through a Single Generative Model**  
-Haodong Feng, Haoren Zheng, Peiyan Hu, Hongyuan Liu, Chenglei Yu, **Long Wei**, Ruiqi Feng, Jinlong Duan, Dixia Fan, Tailin Wu. [[PDF](https://assets-eu.researchsquare.com/files/rs-6881567/v2_covered_108cb63b-c349-4b40-9e71-b2f1dffc28a9.pdf?c=1750707611)]  
+Haodong Feng<sup>\*</sup>, Haoren Zheng<sup>\*</sup>, Peiyan Hu, Hongyuan Liu, Chenglei Yu, **Long Wei**, Ruiqi Feng, Jinlong Duan, Dixia Fan, Tailin Wu. [[PDF](https://assets-eu.researchsquare.com/files/rs-6881567/v2_covered_108cb63b-c349-4b40-9e71-b2f1dffc28a9.pdf?c=1750707611)]  
 <div style="clear: both;"></div>
 
 <img src="path/to/recent-advances-thumbnail.jpg" alt="" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
@@ -100,9 +100,16 @@ arXiv:2408.12171. [[PDF](https://arxiv.org/abs/2408.12171)]
 
 <img src="https://github.com/LongWeiZJU/longweizju.github.io/blob/master/images/safepde-thumbnail.png" alt="" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
 **From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control**  
-Peiyan Hu, Xiaowei Qian, Wenhao Deng, Rui Wang, Haodong Feng, Ruiqi Feng, Tao Zhang, **Long Wei**, Yue Wang, Zhi-Ming Ma, Tailin Wu. 
-ICML 2025. [[PDF](https://arxiv.org/pdf/2502.02205)]  
+Peiyan Hu<sup>\*</sup>, Xiaowei Qian<sup>\*</sup>, Wenhao Deng, Rui Wang, Haodong Feng, Ruiqi Feng, Tao Zhang, **Long Wei**, Yue Wang, Zhi-Ming Ma, Tailin Wu. 
+ICML 2025. [[PDF](https://arxiv.org/pdf/2502.02205)][[Code](https://github.com/AI4Science-WestlakeU/safediffcon)]
 <div style="clear: both;"></div>
+
+<img src="path/to/fluidzero-thumbnail.jpg" alt="" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
+**Wavelet Diffusion Neural Operator**  
+Peiyan Hu<sup>\*</sup>, Rui Wang<sup>\*</sup>, Xiang Zheng, Tao Zhang, Haodong Feng, Ruiqi Feng, **Long Wei**, Yue Wang, Zhi-Ming Ma, Tailin Wu. 
+ICLR 2025. [[PDF](https://arxiv.org/pdf/2412.04833)][[Code](https://github.com/AI4Science-WestlakeU/wdno)]
+<div style="clear: both;"></div>
+
 
 <img src="path/to/cl-diffphycon-thumbnail.jpg" alt="" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
 **CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems**  
