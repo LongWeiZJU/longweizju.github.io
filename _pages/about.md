@@ -13,7 +13,7 @@ redirect_from:
   .page__content {
     max-width: 100% !important; /* 覆盖默认宽度，实现全宽 */
     width: 100% !important;     
-    padding: 0 20px !important; /* 加左右内边距，避免文字贴边 */
+    padding: 0 10px !important; /* 加左右内边距，避免文字贴边 */
   }
   .archive__content {
     max-width: 100% !important; /* 兼容archive类页面 */
@@ -87,13 +87,13 @@ My research interests primarily lie in the intersection of AI and scientific dom
 
 # Selected Publications/Preprints 
 <!-- # [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)] -->
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/" alt="FluidZero thumbnail" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/" alt="FluidZero thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **FluidZero: Mastering Diverse Tasks in Fluid Systems through a Single Generative Model**  
 Haodong Feng<sup>\*</sup>, Haoren Zheng<sup>\*</sup>, Peiyan Hu, Hongyuan Liu, Chenglei Yu, **Long Wei**, Ruiqi Feng, Jinlong Duan, Dixia Fan, Tailin Wu  
 Preprint. [[PDF](https://assets-eu.researchsquare.com/files/rs-6881567/v2_covered_108cb63b-c349-4b40-9e71-b2f1dffc28a9.pdf?c=1750707611)]  
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/" alt="ML for CFD Survey thumbnail" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/" alt="ML for CFD Survey thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**  
 Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun  
 Preprint. [[PDF](https://arxiv.org/abs/2408.12171)]  
@@ -105,38 +105,38 @@ Peiyan Hu<sup>\*</sup>, Xiaowei Qian<sup>\*</sup>, Wenhao Deng, Rui Wang, Haodon
 ICML 2025. [[PDF](https://arxiv.org/pdf/2502.02205)][[Code](https://github.com/AI4Science-WestlakeU/safediffcon)]
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/wdno-thumbnail.png" alt="Wavelet Diffusion Neural Operator thumbnail" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/wdno-thumbnail.png" alt="Wavelet Diffusion Neural Operator thumbnail" style=style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **Wavelet Diffusion Neural Operator**  
 Peiyan Hu<sup>\*</sup>, Rui Wang<sup>\*</sup>, Xiang Zheng, Tao Zhang, Haodong Feng, Ruiqi Feng, **Long Wei**, Yue Wang, Zhi-Ming Ma, Tailin Wu  
 ICLR 2025. [[PDF](https://arxiv.org/pdf/2412.04833)][[Code](https://github.com/AI4Science-WestlakeU/wdno)]
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/cl-diffphcon-thumbnail.png" alt="CL-DiffPhyCon thumbnail" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/cl-diffphcon-thumbnail.png" alt="CL-DiffPhyCon thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Haodong Feng<sup>\*</sup>, Yuchen Yang, Ruiqi Feng, Peiyan Hu, Xiang Zheng, Tao Zhang, Dixia Fan, Tailin Wu  
 ICLR 2025. [[PDF](https://arxiv.org/pdf/2408.03124)][[Code](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon)] 
 <!-- <font color="red"> Nomination of Outstanding Youth Paper Award </font> at [China Embodied AI Conference (CEAI) 2025](https://ceai.caai.cn/)   -->
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/diffphycon-thumbnail.png" alt="DiffPhyCon thumbnail" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/diffphycon-thumbnail.png" alt="DiffPhyCon thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **DiffPhyCon: A Generative Approach to Control Complex Physical Systems**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
 NeurIPS 2024. [[PDF](https://web3.arxiv.org/abs/2407.06494)][[Code](https://github.com/AI4Science-WestlakeU/diffphycon)]  
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/diffphycon-thumbnail.png" alt="Generative PDE Control thumbnail" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/diffphycon-thumbnail.png" alt="Generative PDE Control thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **Generative PDE Control**  
 **Long Wei**<sup>\*</sup>, Peiyan Hu<sup>\*</sup>, Ruiqi Feng<sup>\*</sup>, Yixuan Du, Tao Zhang, Rui Wang, Yue Wang, Zhi-Ming Ma, Tailin Wu   
 [ICLR 2024 Workshop on AI4DifferentialEquations In Science](https://ai4diffeqtnsinsci.github.io/schedule) (<font color="red">Oral</font>). [[PDF](https://openreview.net/forum?id=vaKnCahjdj)][[Code](https://github.com/AI4Science-WestlakeU/diffphycon)]  
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/cindm-thumbnail.png" alt="Compositional Generative Inverse Design thumbnail" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/cindm-thumbnail.png" alt="Compositional Generative Inverse Design thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **Compositional Generative Inverse Design**  
 Tailin Wu<sup>\*</sup>, Takashi Maruyama<sup>\*</sup>, **Long Wei**<sup>\*</sup>, Tao Zhang<sup>\*</sup>, Yilun Du<sup>\*</sup>, Gianluca Iaccarino, Jure Leskovec   
 ICLR 2024 (<font color="red">Spotlight</font>). [[PDF](https://openreview.net/forum?id=wmX0CqFSd7)][[Code](https://github.com/AI4Science-WestlakeU/cindm)]  
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/sif-thumbnail.png" alt="SIF thumbnail" style="float: left; margin-right: 20px; width: 150px; height: auto; margin-bottom: 20px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/sif-thumbnail.png" alt="SIF thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **SIF: Self-inspirited Feature Learning for Person Re-identification**  
 **Long Wei**, Zhenyong Wei, Zhongming Jin, Zhengxu Yu, Jianqiang Huang, Deng Cai, Xiaofei He, Xian-Sheng Hua  
 IEEE Transactions on Image Processing (TIP), 29, 4942-4951, 2020. [[PDF](https://www.researchgate.net/profile/Long-Wei-14/publication/339700962_SIF_Self-Inspirited_Feature_Learning_for_Person_Re-identification/links/64b1eed3c41fb852dd70eb7b/SIF-Self-Inspirited-Feature-Learning-for-Person-Re-identification.pdf)][[Code](https://github.com/ZJULearning/SIF)]
