@@ -87,13 +87,13 @@ My research interests primarily lie in the intersection of AI and scientific dom
 
 # Selected Publications/Preprints 
 <!-- # [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)] -->
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/" alt="FluidZero thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/fluidzero-thumbnail.png" alt="FluidZero thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **FluidZero: Mastering Diverse Tasks in Fluid Systems through a Single Generative Model**  
 Haodong Feng<sup>\*</sup>, Haoren Zheng<sup>\*</sup>, Peiyan Hu, Hongyuan Liu, Chenglei Yu, **Long Wei**, Ruiqi Feng, Jinlong Duan, Dixia Fan, Tailin Wu  
 Preprint. [[PDF](https://assets-eu.researchsquare.com/files/rs-6881567/v2_covered_108cb63b-c349-4b40-9e71-b2f1dffc28a9.pdf?c=1750707611)]  
 <div style="clear: both;"></div>
 
-<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/" alt="ML for CFD Survey thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/CDF-survey.png" alt="ML for CFD Survey thumbnail" style="float: left; margin-right: 25px; width: 220px; height: auto; margin-bottom: 15px;">  
 **Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey**  
 Haixin Wang, Yadi Cao, Zijie Huang, Yuxuan Liu, Peiyan Hu, Xiao Luo, Zezheng Song, Wanjia Zhao, Jilin Liu, Jinan Sun, Shikun Zhang, **Long Wei**, Yue Wang, Tailin Wu, Zhi-Ming Ma, Yizhou Sun  
 Preprint. [[PDF](https://arxiv.org/abs/2408.12171)]  
