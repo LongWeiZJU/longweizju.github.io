@@ -60,8 +60,8 @@ I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang Un
 # Openings
 
 **My group is actively recruiting for the following positions**:
-- **Research Assistants**
 - **Ph.D. Students (Fall 2026) & Master Students (Fall 2026)**
+- **Research Assistants**
 - **Research Internships**, open to undergraduate/master/doctoral students, and individuals on a gap year.
 
 If you have a strong motivation for exploring interdisciplinary research at the intersection of AI and science, as outlined in the following Research Interests section, please do not hesitate to contact me. 
