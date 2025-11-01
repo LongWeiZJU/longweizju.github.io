@@ -53,16 +53,17 @@ redirect_from:
 </style>
 
 <!-- # About Me -->
-I am an Assistant Professor at the [Artificial Intelligence Innovation and Incubation (AI³) Institute](https://ai3.fudan.edu.cn/#) (人工智能创新与产业研究院) of [Fudan University](https://www.fudan.edu.cn/en/) ([复旦大学](https://www.fudan.edu.cn/)). My homepage at Fudan University is [here](https://ai3.fudan.edu.cn/info/1075/2294.htm). Previously, I was a postdoctoral researcher at [Westlake University](https://en.westlake.edu.cn/) ([西湖大学](https://www.westlake.edu.cn/)), working with [Prof. Tailin Wu](https://tailin.org/) from 2023 to 2025. 
-Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en) ([阿里巴巴达摩院](https://damo.alibaba.com/?language=zh)) from 2020 to 2023. 
-I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) ([浙江大学](https://www.zju.edu.cn/)) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). During my doctoral studies, I was a visiting scholar in the group of [Prof. Jieping Ye](http://www.yelabs.net/) at the University of Michigan, Ann Arbor. Earlier, I completed my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University in 2013.
+I am an Assistant Professor at the [Artificial Intelligence Innovation and Incubation (AI³) Institute](https://ai3.fudan.edu.cn/#) of [Fudan University](https://www.fudan.edu.cn/en/). My homepage at Fudan University is [here](https://ai3.fudan.edu.cn/info/1075/2294.htm). Previously, I was a postdoctoral researcher at [Westlake University](https://en.westlake.edu.cn/), working with [Prof. Tailin Wu](https://tailin.org/) from 2023 to 2025. 
+Before that, I worked at [Damo Academy, Alibaba Group](https://damo.alibaba.com/?language=en) from 2020 to 2023. 
+I received my Ph.D. degree in Computer Science and Engineering from [Zhejiang University](https://www.zju.edu.cn/english/) in 2020, advised by [Prof. Xiaofei He](http://www.cad.zju.edu.cn/home/xiaofeihe/) and [Prof. Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). During my doctoral studies, I was a visiting scholar in the group of [Prof. Jieping Ye](http://www.yelabs.net/) at the University of Michigan, Ann Arbor. Earlier, I completed my Bachelor's degree in Mathematics and Applied Mathematics at Zhejiang University in 2013.
 
 # Openings
 
 **My group is actively recruiting for the following positions**:
-- **Ph.D. Students (Fall 2026) & Master Students (Fall 2026)**
-- **Research Assistants**
+- ~~**Ph.D. Students (Fall 2026)**~~ (Positions Filled)
+- **Master Students (Fall 2026)**
 - **Research Internships**, open to undergraduate/master/doctoral students, and individuals on a gap year.
+<!-- - **Research Assistants** -->
 
 If you have a strong motivation for exploring interdisciplinary research at the intersection of AI and science, as outlined in the following Research Interests section, please do not hesitate to contact me. 
 
@@ -72,11 +73,12 @@ My **email address**: weilong AT fudan.edu.cn.
 
 My research interests primarily lie in the intersection of AI and scientific domains. My long-term objective is to develop intelligent systems that match the problem-solving capabilities of human scientists and engineers, achieving breakthroughs in key challenges across science and engineering. Currently, I focus on the following directions:
 
-- **AI for Science Foundational Research**: (1) Efficient machine learning algorithms for scientific problems; (2) Universal approaches for modeling and computing complex systems (e.g., physical, biological, or engineering systems) that generalize across diverse domains; (3) Design of autonomous agent systems to enable automated scientific discovery.
+- **AI for Science Basic Research**: (1) Efficient machine learning algorithms for scientific problems; (2) Universal approaches for modeling and computing complex systems (e.g., physical, biological, or engineering systems) that generalize across diverse domains; (3) Design of autonomous agent systems to enable automated scientific discovery.
 
-- **AI for Science Applications**: (1) Developing AI methods to solve simulation, design, and control challenges in energy systems, embodied intelligence, and other critical engineering domains; (2) Applying AI methods to tackle major challenges in healthcare and medical domains.
+- **AI for Science Applications**: Developing AI methods to solve computational challenges in energy systems, embodied intelligence, healthcare and other domains.
 
 # News
+- 2025/10 We release a new benchmark [BuildArena](https://build-arena.github.io/), where LLMs are instructed to build 3D rockets, cars and bridges in a physical simulator. 
 - 2025/04 Our ICLR 2025 paper [*Wavelet Diffusion Neural Operator*](https://openreview.net/forum?id=FQhDIGuaJ4) is featured by [集智俱乐部](https://mp.weixin.qq.com/s/s7jVimP2lQdGlOn1q7DkHg).  
 - 2025/03 Our ICLR 2025 paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is nominated for the Outstanding Youth Paper Award at the China Embodied AI Conference (CEAI 2025). Thanks to all collaborators!
 - 2025/02 Our ICLR 2025 paper [*CL-DiffPhyCon*](https://openreview.net/forum?id=PiHGrTTnvb) is featured by [机器之心](https://mp.weixin.qq.com/s/nlnNMrJBCwPrf38k4uKKTA).  
@@ -86,8 +88,15 @@ My research interests primarily lie in the intersection of AI and scientific dom
 - 2024/05 I give an Oral Presentation on our paper [*Generative PDE Control*](https://openreview.net/forum?id=vaKnCahjdj) at [ICLR 2024 Workshop on AI4DifferentialEquations in Science](https://ai4diffeqtnsinsci.github.io/schedule).
 
 
-# Selected Publications/Preprints 
+# Publications/Preprints 
 <!-- # [[Full list](https://scholar.google.com/citations?user=GU42ydUAAAAJ&hl=en)] -->
+
+<img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/buildAnera.gif" alt="buildAnera thumbnail" style="float: left; margin-right: 25px; width: 250px; height: auto; margin-bottom: 35px;">  
+**BuildArena: A Physics-Aligned Interactive Benchmark of LLMs for Engineering Construction**  
+Tian Xia, Tianrun Gao, Wenhao Deng, **Long Wei**, Xiaowei Qian, Yixian Jiang, Chenglei Yu, Tailin Wu  
+Preprint. [[Project Page](https://build-arena.github.io/#benchmark)][[PDF](https://arxiv.org/abs/2510.16559)][[Code](https://github.com/AI4Science-WestlakeU/BuildArena)]
+<div style="clear: both;"></div>
+
 <img src="https://raw.githubusercontent.com/LongWeiZJU/longweizju.github.io/master/images/fluidzero-thumbnail.png" alt="FluidZero thumbnail" style="float: left; margin-right: 25px; width: 250px; height: auto; margin-bottom: 35px;">  
 **FluidZero: Mastering Diverse Tasks in Fluid Systems through a Single Generative Model**  
 Haodong Feng<sup>\*</sup>, Haoren Zheng<sup>\*</sup>, Peiyan Hu, Hongyuan Liu, Chenglei Yu, **Long Wei**, Ruiqi Feng, Jinlong Duan, Dixia Fan, Tailin Wu  
